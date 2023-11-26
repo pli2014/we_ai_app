@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "we_ai_app",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
